@@ -4,7 +4,7 @@
     "description": "This is laravel h5p plugin that use for content edition",
     "type": "library",
     "require": {
-        "php": "^8.2",
+        "php": "^8.1",
         "laravel/framework": "^10.10",
         "guzzlehttp/guzzle": "^7.7"
     },
